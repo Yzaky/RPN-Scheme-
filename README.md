@@ -25,7 +25,7 @@ The program was implemented using Racket and Gambit.
 
 To install Gambit, please refer to http://gambitscheme.org or
 
-Quick-install instructions for a typical installation
+
 =====================================================
 
     git clone https://github.com/gambit/gambit.git
