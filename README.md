@@ -41,3 +41,7 @@ To install Gambit, please refer to http://gambitscheme.org or
     make check
     sudo make install
 	
+Once installed, cd to RPN folder and then use the following command to execute our file.
+    gsi RPN.scm
+    
+Enjoy.
