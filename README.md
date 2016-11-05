@@ -17,6 +17,8 @@ Used functions are :-
 
 
 Behavior :
+
+
 ![1](https://cloud.githubusercontent.com/assets/14367775/20032099/b00bae60-a359-11e6-9401-6317b3b9cb9c.png)
 ![2](https://cloud.githubusercontent.com/assets/14367775/20032100/b19e1e84-a359-11e6-8b63-2b8f60bbba90.png)
 
