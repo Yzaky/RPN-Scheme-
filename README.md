@@ -9,9 +9,9 @@ Used functions are :-
 
 2) Traiter-ligne : Called by Repl that does the following :
 
-	a) Convert the data entry to a list of characters Ex :- ( "3 3 + " -> ( #\3 #\space #\3 #\space #\+ ) )
+a) Convert the data entry to a list of characters Ex :- ( "3 3 + " -> ( #\3 #\space #\3 #\space #\+ ) )
 	
-	b) calls Traiter function with two parameters, the list of characters and an empty list that represents our dictionary which is an association that converts all the user input.
+b) calls Traiter function with two parameters, the list of characters and an empty list that represents our dictionary which is an association that converts all the user input.
 
 
 3)Traiter : The core function, it browses our list of characters, tests each character to know if we found an affection, a number, operator or an invalid expression.
