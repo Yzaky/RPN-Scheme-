@@ -2,6 +2,7 @@
 
 The program is a calculator written in Scheme. It allows to calculate inputs in RPNotation.
 
+##Description
 Used functions are :-
 
 1) Repl: A function that runs to infinity to read data input on command line.
@@ -16,13 +17,13 @@ Used functions are :-
 5) Convert : To convert a number to a list of chars.
 
 
-Behavior :
+##Behavior :
 
 
 ![1](https://cloud.githubusercontent.com/assets/14367775/20032099/b00bae60-a359-11e6-9401-6317b3b9cb9c.png)
 ![2](https://cloud.githubusercontent.com/assets/14367775/20032100/b19e1e84-a359-11e6-8b63-2b8f60bbba90.png)
 
-How to run :
+##How to run :
 
 The program was implemented using Racket and Gambit.
 
