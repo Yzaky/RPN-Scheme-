@@ -8,7 +8,11 @@ Used functions are :-
 1) Repl: A function that runs to infinity to read data input on command line.
 
 2) Traiter-ligne : Called by Repl that does the following :
+
+
 	a) Convert the data entry to a list of characters Ex :- ( "3 3 + " -> ( #\3 #\space #\3 #\space #\+ ) )
+	
+	
 	b) calls Traiter function with two parameters, the list of characters and an empty list that represents our dictionary which 
 	is an association that converts all the user input.
 
